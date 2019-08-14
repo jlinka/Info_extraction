@@ -1,0 +1,57 @@
+label,precision,recall,f1_score,true count,false count
+label,precision,recall,f1_score,true count,false count
+0,0.975,0.966,0.971,18245,468
+label,precision,recall,f1_score,true count,false count
+1,0.54,0.63,0.582,749,637
+label,precision,recall,f1_score,true count,false count
+no-info,1.0,0.999,1.0,31200,1
+total label acc,precision,recall,f1_score,total true count,total false count
+0.978,0.838,0.865,0.851,50194,1106
+label,precision,recall,f1_score,true count,false count
+0,0.966,0.961,0.964,17626,613
+label,precision,recall,f1_score,true count,false count
+1,0.55,0.6,0.574,869,712
+label,precision,recall,f1_score,true count,false count
+no-info,1.0,0.999,0.999,31480,0
+total label acc,precision,recall,f1_score,total true count,total false count
+0.974,0.839,0.853,0.846,49975,1325
+label,precision,recall,f1_score,true count,false count
+0,0.976,0.958,0.967,18102,436
+label,precision,recall,f1_score,true count,false count
+1,0.496,0.663,0.567,773,787
+label,precision,recall,f1_score,true count,false count
+no-info,1.0,0.999,0.999,31196,6
+total label acc,precision,recall,f1_score,total true count,total false count
+0.976,0.824,0.873,0.845,50071,1229
+label,precision,recall,f1_score,true count,false count
+0,0.988,0.955,0.971,18218,221
+label,precision,recall,f1_score,true count,false count
+1,0.408,0.758,0.531,591,857
+label,precision,recall,f1_score,true count,false count
+no-info,1.0,0.999,0.999,31408,5
+total label acc,precision,recall,f1_score,total true count,total false count
+0.979,0.799,0.904,0.834,50217,1083
+label,precision,recall,f1_score,true count,false count
+0,0.988,0.948,0.967,17904,214
+label,precision,recall,f1_score,true count,false count
+1,0.372,0.753,0.498,579,977
+label,precision,recall,f1_score,true count,false count
+no-info,1.0,0.999,0.999,31613,13
+total label acc,precision,recall,f1_score,total true count,total false count
+0.977,0.787,0.9,0.822,50096,1204
+label,precision,recall,f1_score,true count,false count
+0,0.978,0.959,0.969,18443,408
+label,precision,recall,f1_score,true count,false count
+1,0.511,0.676,0.582,798,765
+label,precision,recall,f1_score,true count,false count
+no-info,0.999,0.999,0.999,30860,26
+total label acc,precision,recall,f1_score,total true count,total false count
+0.977,0.829,0.878,0.85,50101,1199
+label,precision,recall,f1_score,true count,false count
+0,0.989,0.956,0.972,18550,208
+label,precision,recall,f1_score,true count,false count
+1,0.43,0.779,0.554,649,860
+label,precision,recall,f1_score,true count,false count
+no-info,1.0,0.999,1.0,31031,2
+total label acc,precision,recall,f1_score,total true count,total false count
+0.979,0.806,0.911,0.842,50230,1070

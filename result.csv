@@ -1,0 +1,8 @@
+label,precision,recall,f1_score,true count,false count
+0,0.968,0.955,0.961,18150,609
+label,precision,recall,f1_score,true count,false count
+1,0.447,0.539,0.489,676,836
+label,precision,recall,f1_score,true count,false count
+no-info,1.0,0.999,0.999,31018,11
+total label acc,precision,recall,f1_score,total true count,total false count
+0.972,0.805,0.831,0.817,49844,1456
